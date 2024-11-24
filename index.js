@@ -47,6 +47,7 @@ estados.forEach(uf => {
   });
 });
 
+console.log(data);
 
 // Rota para listar todos os estados
 app.get('/estados', (req, res) => {
