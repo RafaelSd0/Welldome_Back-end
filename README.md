@@ -7,7 +7,7 @@ Esta API fornece dados relacionados a notificações de COVID-19 em diferentes e
 
 ## Deploy
 
-A Api está hospedada no Render (WelldomeAPI)[https://welldome-back-end.onrender.com]
+A Api está hospedada no Render WelldomeAPI: https://welldome-back-end.onrender.com
 
 
 ---
