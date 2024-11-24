@@ -52,10 +52,10 @@ Descrição: Filtra os dados de notificações de um estado específico.
 ## 🛠 Estrutura do Projeto
 
 
-.
-├── index.js        # Arquivo principal do servidor
-├── package.json    # Gerenciamento de dependências
-└── README.md       # Documentação do projeto
+
+- index.js        # Arquivo principal do servidor
+- package.json    # Gerenciamento de dependências
+- README.md       # Documentação do projeto
 
 ---
 
@@ -65,6 +65,8 @@ Descrição: Filtra os dados de notificações de um estado específico.
 
 `` 
 const PORT = 3000;
+``
+``
 app.listen(PORT, () => {
   console.log(`Servidor rodando em http://localhost:${PORT}`);
 }); 
