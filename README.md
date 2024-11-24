@@ -23,7 +23,7 @@ A Api está hospedada no Render WelldomeAPI: https://welldome-back-end.onrender.
    npm install
 
 3. Inicie o servidor
-   ´´´bash
+   ```bash
    node index.js
    
 O servidor será iniciado em http://localhost:3000 por padrão 🚀🚀🚀🚀
